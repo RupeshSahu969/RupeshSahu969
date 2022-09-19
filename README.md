@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm Rupesh Shau</h1>
-<h3 align="center">Full Stack Web Devloper</h3>
+![MasterHead](https://www.9series.com/img/services/full-stack/best%20Full%20Stack%20development%20company%20in%20India.jpg)
+
+
+<h1 align="center">Hi 👋, I'm Rupesh Sahu</h1>
+<h3 align="center"> Aspiring Full Satck Web developer trained in HTML, CSS, Javascript,React,Redux,Node,mongoDB and Express Looking forward to using this personal, analytical, and technical skills effectively and gaining hands-on experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupeshsahu969&label=Profile%20views&color=0e75b6&style=flat" alt="rupeshsahu969" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupeshsahu969" alt="rupeshsahu969" /></a> </p>
 
-- 🔭 I’m currently working on ****MySkill ****
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6587ec1b3304a4351679cd4324e47a86ac3e17f878d446bf0e8e6856551d80ba/68747470733a2f2f7468656e696e65686572747a2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30362f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
 
-- 🌱 I’m currently learning ****Masai School (Full Stack Web Developer)****
 
-- 👨‍💻 All of my projects are available at [https://rupeshsahu969.github.io/](https://rupeshsahu969.github.io/)
-
+- 🔭 I’m currently working on **MySkill😄**
+- 🌱 I’m currently learning **Masai School (Full Stack Web Developer)**
 - 💬 Ask me about **React**
-
-- 📫 How to reach me **rupeshshau969@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-fdqtMtcz7izTNbcICILJ5NyhWYB35y8/view?usp=sharing](https://drive.google.com/file/d/1-fdqtMtcz7izTNbcICILJ5NyhWYB35y8/view?usp=sharing)
-
-- ⚡ Fun fact **...Always smile😄 in tough situation**
+- 👨‍💻 All of my projects are available at [My Portfolio](https://rupeshsahu969.github.io/)
+-  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1-fdqtMtcz7izTNbcICILJ5NyhWYB35y8/view?usp=sharing)
+- 📫 How to reach me: ...**rupeshsahu969@gmail.com**
+- ⚡ Fun fact: ...Always smile😄 in tough situation
+**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -40,3 +40,44 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupeshsahu969&show_icons=true&locale=en" alt="rupeshsahu969" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupeshsahu969&" alt="rupeshsahu969" /></p>
+
+
+<br/>
+<h3 align="left">🛠 &nbsp;Tech Stack </h3>
+
+<div align="center">  
+	
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+  <!-- <img style="margin: 10px" src=" https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="react" height="50" />   -->
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="redux" height="50" /> 
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="git" height="50" /> 
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="mongoDB" height="50" /> 
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="node" height="50" /> 
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="expree" height="50" /> 
+
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+
+<!--    -->
+
+<!--    --> 
+
+
+
+
+</div>
+<br/>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swatisharma78&show_icons=true&locale=en&layout=compact" alt="rupeshsahu969" /></p> -->
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
+
+<p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
+
+
