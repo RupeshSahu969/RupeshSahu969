@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rupesh Sahu</h1>
-<h3 align="center"> Aspiring Full Satck Web developer trained in HTML, CSS, Javascript,React,Redux,Node,mongoDB and Express Looking forward to using this personal, analytical, and technical skills effectively and gaining hands-on experience.</h3>
+<h3 align="center"> Currently Learning  Full Satck Web Developer from Masai School .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupeshsahu969&label=Profile%20views&color=0e75b6&style=flat" alt="rupeshsahu969" /> </p>
 
@@ -76,8 +76,5 @@
 &nbsp;
 &nbsp;
 &nbsp;
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
-
-<p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
 
 
