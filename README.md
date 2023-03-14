@@ -13,7 +13,7 @@ Dedicated and efficient aspiring full-stack web developer Capable of writing pro
 
 
 - 🔭 I’m currently working on **MySkill😄**
-- 🌱 I’m currently learning **Masai School (Full Stack Web Developer)**
+
 - 💬 Ask me about **React**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://rupeshsahu969.github.io/)
 -  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1nF5eXpoIfd8bH5AX-4U1XckR6QKdP5Jl/view?usp=sharing)
