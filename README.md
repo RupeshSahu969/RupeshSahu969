@@ -16,7 +16,7 @@ Dedicated and efficient aspiring full-stack web developer Capable of writing pro
 
 - 💬 Ask me about **React**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://rupeshsahu969.github.io/)
--  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1nF5eXpoIfd8bH5AX-4U1XckR6QKdP5Jl/view?usp=sharing)
+-  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/16DgezrnrTYs5Hpd_dy43S9FB_uqB0f1E/view?usp=share_link)
 - 📫 How to reach me: ...**rupeshsahu969@gmail.com**
 - ⚡ Fun fact: ...Always smile😄 in tough situation
 **
