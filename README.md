@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Rupesh Sahu</h1>
 <h3 align="center"> 
-Dedicated and efficient aspiring full-stack web developer Capable of writing production-ready code. Executing goal oriented projects and learning MERN Stack and Data Structures and Algorithms Eager to tackle web development challenges to achieve lasting impacts on user experience and to grow technical knowledge simultaneously.
+Dedicated and efficient full-stack web developer Capable of writing production-ready code. Executing goal oriented projects and learning MERN Stack and Data Structures and Algorithms Eager to tackle web development challenges to achieve lasting impacts on user experience and to grow technical knowledge simultaneously.
 .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupeshsahu969&label=Profile%20views&color=0e75b6&style=flat" alt="rupeshsahu969" /> </p>
